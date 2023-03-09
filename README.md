@@ -9,7 +9,7 @@ The SwiftUI Weather app, allow users get the current weather for a particular lo
 
 ## How to Work with the Source
 
-* In order to get Weather app to work, you need to put your [worldweatheronline](https://www.worldweatheronline.com) secret key on the AppConstants.swift file 
+* In order to get Weather app to work, you need to put your [openweathermap](https://openweathermap.org/) secret key on the AppConstants.swift file 
 ```AppConstants.swift
 static let apiKey = "Your world weather online API key"
 ```
